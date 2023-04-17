@@ -1,0 +1,16 @@
+{
+    "name": "mocy-blackjack",
+    "version": "1.0.0",
+    "description": "A blackjack game for Discord",
+    "main": "index.js",
+    "typings": "types/index.d.ts",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "JohnDavid",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^14.9.0",
+      "shuffle-array": "^1.0.1"
+    }
+  }
